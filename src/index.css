@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Dancing+Script:wght@500&display=swap');
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.homeContainerMain {
+  margin-top: 200px;
+  text-align: center;
+  color: #424242;
+}
+
+.homeLoginButton {
+  
+  margin: -20px -50px;
+  left: 47%;
+  position: relative;
+}
+
+.homeDivTwo {
+  color: #546E7A;
+  text-align: center;
+}
+
+.homeDivTwo h4 {
+  margin-top: 30px;
+}
+
+.homeCard {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  color: #424242;
+  background-color: #F5F5F5;
+  margin-top: 50px;
+}
+
+.homeCard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.homeReview  {
+  padding: 50px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.customerInfo Avatar {
+  align-self: center;
+}
+
+.customerInfo {
+  margin: 20px;
+}
+
+ion-icon {
+  color: #FFC107;
+}
+
+.heartIcon {
+  
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.DealerHeaderDiv {
+  background-color: #3BAB83;
+  height: 80px;
+}
+
+.DealerHeaderDiv .DealerHeaderName {
+  padding-top: 10px;
+  color: white;
+  padding-left: 30px;
+}
+
+.DealerHeaderName ion-icon {
+  color: white;
+  padding-bottom: 7px;
+  font-size: 24px;
+  padding-right: 7px;
+  float: left;
+}
+
+.DealerHeaderDiv .DealerHeaderSearch {
+  float: right;
+  padding-right: 50px;
+}
+.DealerHeaderDiv .DealerHeaderSearch ion-icon {
+  color: white;
+  font-size: 20px;
+}
+
+.DealerHeaderDiv .DealerHeaderSearch TextField {
+  color: white;
+}
+
+
+.columnn {
+  float: left;
+}
+
+.leftt {
+  height: 100%;
+  width: 25%;
+}
+
+.rightt {
+  width: 75%;
+}
+
+.roww:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.DealerSideBarDiv {
+  background-color: white;
+}
+
+.DealerSideBarItem {
+  background-color: white;
+  margin-left: 30px;
+  margin-right: 70px;
+  margin-top: 25px;
+}
+
+
+
+.DealerSideBarDiv .DealerSideBarItem ion-icon {
+  color: #3BAB83;
+  font-size: 25px;
+  float: left;
+  
+}
+
+.DealerSideBarDiv .DealerSideBarItem h5 {
+  margin-left: 8px;
+  text-decoration: none;
+  margin-top: 20px;
+  color: #424242;
+}
+.DealerSideBarDiv .DealerSideBarItem h5:hover {
+  color: #00695C;
+  text-decoration: none;
+}
+
+.DealerSideBarText {
+  margin-left: 10px;
+}
+
+
+.PlaceHolder {
+  margin: 20px;
+}
+
+.DealerInventoryTable {
+  margin: 20px;
+}
+
+
+.homeDivThree {
+  margin-top: 40px;
+}
+
+
+.OrderLeft {
+  height: 100%;
+  width: 70%;
+  margin-top: 30px;
+}
+
+.OrderRight {
+  height: 1000px;
+  width: 30%;
+  background-color: #EEEEEE;
+}
+
+.OrdersRightItem {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.OrdersRightItem h6 {
+  color: #757575;
+}
+
+.OrdersRightItem h5 {
+  color: #004D40;
+}
+
+.DealerAddItemsDiv {
+  margin: 50px;
+}
+
+.DealerAddItemsDiv TextField {
+  width: 300px;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #004D40;
+}
+
+.TaskMain {
+  margin: 50px;
+}
+
+.DealerAddItemsDiv {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 100px;
+}
+
+.DealerAddItemsDiv Input {
+  padding-top: 30px;
+}
+
+.homeDivThree {
+  text-align: center;
+}
+
+.homeDivThreeContent {
+  padding-top: 50px;
+}
+
+.homeDivThreeContent ion-icon {
+  color: #424242;
+  font-size: 25px;
+}
+
+.uses {
+  margin-left: 10px;
+}
+
+.homeDivFour {
+  margin-top: 100px;
+  margin-left: 15%;
+  margin-bottom: 300px;
+}
+
+
